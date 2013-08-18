@@ -1,4 +1,4 @@
-# YOURLS-1.6-id_ID Indonesia TRANSLATIONS
+#YOURLS 1.6 Indonesia TRANSLATIONS
 
 Indonesia translations for YOURLS 1.6.
 
@@ -6,7 +6,7 @@ follow [@tigefa_team](http://twitter.com/tigefa_team)
 
 http://tigefa4u.github.io
 
-##Install YOURLS in your language
+##Install YOURLS language
 
 If translation files for your language are available:
 
