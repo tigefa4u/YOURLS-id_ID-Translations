@@ -10,9 +10,10 @@ http://tigefa4u.github.io
 
 If translation files for your language are available:
 
-In config.php add or edit the following line: `define( 'YOURLS_LANG', 'id_ID' );`
-In directory user/languages, drop the two files `id_ID.po` et `id_ID.mo`
-Of course, replace fr_FR with the appropriate language code.
+1. In `config.php` add or edit the following line: `define( 'YOURLS_LANG', 'id_ID' );`
+2. In directory user/languages, drop the two files `id_ID.po` et `id_ID.mo`
+
+Of course, replace `id_ID` with the appropriate language code.
 
 ## What are the available languages already?
 
