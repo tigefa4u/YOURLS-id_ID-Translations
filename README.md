@@ -20,6 +20,7 @@ Of course, replace `id_ID` with the appropriate language code.
 See http://yourls.org/translations
 
 #### License
+
 MIT License
 
 Copyright (c) 2018 Sugeng Tigefa
