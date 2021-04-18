@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS\n"
 "POT-Creation-Date: 2013-04-16 16:10+0100\n"
-"PO-Revision-Date: 2021-04-18 23:47+0700\n"
+"PO-Revision-Date: 2021-04-18 23:52+0700\n"
 "Last-Translator: sugeng tigefa <tigefa@gmail.com>\n"
 "Language-Team: Sugeng Tigefa <tigefa@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -388,7 +388,7 @@ msgstr ""
 
 #: admin/plugins.php:159
 msgid "More plugins"
-msgstr "Plugin lebih"
+msgstr "Lebih banyak plugin"
 
 #: admin/plugins.php:161
 msgid ""
@@ -687,7 +687,7 @@ msgstr "Log out berhasil"
 
 #: includes/functions-auth.php:84
 msgid "Invalid username or password"
-msgstr "Invalid username atau password"
+msgstr "username atau password salah"
 
 #: includes/functions-auth.php:86
 msgid "Please log in"
