@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS\n"
 "POT-Creation-Date: 2013-04-16 16:10+0100\n"
-"PO-Revision-Date: 2021-04-18 23:28+0700\n"
+"PO-Revision-Date: 2021-04-18 23:47+0700\n"
 "Last-Translator: sugeng tigefa <tigefa@gmail.com>\n"
-"Language-Team: tigefa4u.github.com <tigefa@gmail.com>\n"
+"Language-Team: Sugeng Tigefa <tigefa@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -53,7 +53,7 @@ msgstr "Sumber lalu lintas"
 #: yourls-infos.php:239 yourls-infos.php:540 includes/functions-html.php:509
 #: includes/functions-html.php:510
 msgid "Share"
-msgstr "Share"
+msgstr "Bagikan"
 
 #: yourls-infos.php:254 yourls-infos.php:294
 msgid "Last 24 hours"
@@ -395,12 +395,12 @@ msgid ""
 "For more plugins, head to the official <a href=\"http://yourls.org/pluginlist"
 "\">Plugin list</a>."
 msgstr ""
-"Untuk lebih banyak plugin, kepala ke <a resmi href=\"http://yourls.org/"
-"pluginlist\"> Plugin daftar </ a>."
+"Untuk lebih banyak plugin, Silahkan kunjungi situs resmi<a href=\"http://"
+"yourls.org/pluginlist\"> Daftar Plugin</ a>."
 
 #: admin/tools.php:6
 msgid "Cool YOURLS Tools"
-msgstr "Keren YOURLS Peralatan"
+msgstr "Alat YOURLS Keren"
 
 #: admin/tools.php:13
 msgid "Bookmarklets"
@@ -423,32 +423,32 @@ msgid ""
 "The <span>Standard Bookmarklets</span> will take you to a page where you can "
 "easily edit or delete your brand new short URL."
 msgstr ""
-"The <span>Standar Bookmarklets </span> akan membawa Anda ke halaman di mana "
-"Anda dapat dengan mudah mengedit atau menghapus merek baru URL pendek."
+"Bookmarklet <span>Standar akan membawa</span> Anda ke halaman di mana Anda "
+"dapat dengan mudah mengedit atau menghapus URL pendek baru Anda."
 
 #: admin/tools.php:22
 msgid ""
 "The <span>Instant Bookmarklets</span> will pop the short URL without leaving "
 "the page you are viewing."
 msgstr ""
-"The <span>Bookmarklets Instant</span> akan muncul URL pendek tanpa "
-"meninggalkan halaman yang sedang Anda lihat."
+"Bookmarklet <span>Instan akan</span> memunculkan URL singkat tanpa "
+"meninggalkan halaman yang Sedang Anda lihat."
 
 #: admin/tools.php:24
 msgid ""
 "The <span>Simple Bookmarklets</span> will generate a short URL with a random "
 "or sequential keyword."
 msgstr ""
-"The Simple <span>Bookmarklets</span> akan menghasilkan URL pendek dengan "
-"kata kunci acak atau berurutan."
+"<span>Bookmarklet Sederhana akan</span> menghasilkan URL singkat dengan kata "
+"kunci acak atau berurutan."
 
 #: admin/tools.php:26
 msgid ""
 "The <span>Custom Keyword Bookmarklets</span> will prompt you for a custom "
 "keyword first."
 msgstr ""
-"The <span>Kustom Bookmarklets Kata Kunci</span> akan meminta Anda untuk kata "
-"kunci kustom pertama."
+"<span>Bookmarklet Kata Kunci Kustom akan meminta</span> Kata kunci kustom "
+"terlebih dahulu."
 
 #: admin/tools.php:30
 msgid ""
