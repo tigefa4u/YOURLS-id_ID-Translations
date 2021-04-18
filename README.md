@@ -1,6 +1,6 @@
-# YOURLS 1.6 Indonesia TRANSLATIONS
+# YOURLS Indonesia TRANSLATIONS
 
-Indonesia translations for YOURLS 1.6.
+Indonesia translations for YOURLS
 
 follow [@sugengtigefa](http://twitter.com/sugengtigefa)
 
