@@ -1,21 +1,21 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: YOURLS 1.6\n"
+"Project-Id-Version: YOURLS\n"
 "POT-Creation-Date: 2013-04-16 16:10+0100\n"
-"PO-Revision-Date: 2013-08-19 03:41+0700\n"
+"PO-Revision-Date: 2021-04-18 23:28+0700\n"
 "Last-Translator: sugeng tigefa <tigefa@gmail.com>\n"
 "Language-Team: tigefa4u.github.com <tigefa@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-KeywordsList: yourls__;yourls_e;yourls_s;yourls_se;"
 "yourls_esc_attr__;yourls_esc_html__;yourls_x;yourls_ex;yourls_esc_attr_x;"
 "yourls_esc_html_x;yourls_n:1,2;yourls_nx:1,2;yourls_n_noop:1,2;"
 "yourls_nx_noop:1,2\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Language: indonesia\n"
+"Language: id\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: yourls-infos.php:204
@@ -180,7 +180,7 @@ msgstr "Langsung vs Pengarah Lalu Lintas"
 
 #: yourls-infos.php:519
 msgid "Direct"
-msgstr "langsung"
+msgstr "Lalu lintas langsung:"
 
 #: yourls-infos.php:521
 msgid "Direct traffic:"
@@ -299,7 +299,7 @@ msgstr "YOURLS Administrasi Halaman"
 
 #: admin/plugins.php:38
 msgid "Unsupported action"
-msgstr "membudayanya"
+msgstr "Tindakan yang tidak didukung"
 
 #: admin/plugins.php:42
 msgid "No plugin specified, or not a valid plugin"
@@ -348,15 +348,15 @@ msgstr "Versi"
 
 #: admin/plugins.php:81
 msgid "Description"
-msgstr "deskripsi"
+msgstr "Deskripsi"
 
 #: admin/plugins.php:82
 msgid "Author"
-msgstr "penulis"
+msgstr "Penulis"
 
 #: admin/plugins.php:83
 msgid "Action"
-msgstr "tindakan"
+msgstr "Tindakan"
 
 #: admin/plugins.php:118
 msgid "Deactivate"
@@ -503,7 +503,7 @@ msgstr "Instant Mempersingkat"
 
 #: admin/tools.php:54
 msgid "Custom Keyword"
-msgstr "kustom Kata Kunci"
+msgstr "Kata Kunci Kustom"
 
 #: admin/tools.php:55
 msgid "Custom shorten"
@@ -806,7 +806,7 @@ msgstr "antara"
 #: includes/functions-html.php:262
 #, php-format
 msgid "Show links created %1$s %2$s %3$s %4$s"
-msgstr "ampilkan link dibuat %1$s %2$s %3$s %4$s"
+msgstr "Tampilkan link dibuat %1$s %2$s %3$s %4$s"
 
 #: includes/functions-html.php:266
 msgid "Search"
